@@ -131,7 +131,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
 https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1102.png" ,Домашний International
 https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общие",Домашний
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общие БезГраниц",Домашний
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
 #EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6296.png" ,Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
