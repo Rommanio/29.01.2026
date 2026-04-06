@@ -188,8 +188,9 @@ http://s.only4.tv/0119/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/0120/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="romantichnoe" tvg-logo="http://1lot.tv/ch/5537.png" ,Романтичное HD
 http://s.only4.tv/5537/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="kinopremiera-hd" tvg-logo="http://1lot.tv/ch/12101.png" ,КиноПремьера HD
-http://s.only4.tv/12101/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://1lot.tv/ch/0122.png" ,Остросюжетное HD
 http://s.only4.tv/0122/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="fox" tvg-logo="http://1lot.tv/ch/8160.png" ,FX
@@ -368,8 +369,9 @@ http://s.only4.tv/7660/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/7661/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="cineman-vovserials" tvg-logo="http://1lot.tv/ch/10292.png" ,CineMan Военные Сериалы
 http://s.only4.tv/10292/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="trashtv" tvg-logo="http://1lot.tv/ch/6853.png" ,Trash HD
-http://s.only4.tv/6853/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="yosso-grand" tvg-logo="http://1lot.tv/ch/7185.png" ,Yosso TV Grand
 http://s.only4.tv/7185/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Кино БезГраниц" tvg-id="yosso-rusfilm" tvg-logo="http://1lot.tv/ch/7188.png" ,Yosso TV Русские Фильмы
@@ -538,18 +540,20 @@ http://s.only4.tv/9528/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/10372/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="КиноПлюс БезГраниц" tvg-id="kernel-newmovies" tvg-logo="http://1lot.tv/ch/10605.png" ,Kernel TV Новинки
 http://s.only4.tv/10605/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="anekdottv" tvg-logo="http://1lot.tv/ch/5524.png" ,Анекдот ТВ
-http://s.only4.tv/5524/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="gags-network" tvg-logo="http://1lot.tv/ch/6875.png" ,GagsNetwork
 http://s.only4.tv/6875/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="perec-int" tvg-logo="http://1lot.tv/ch/6919.png" ,Перец Int.
 http://s.only4.tv/6919/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="gametoon" tvg-logo="http://1lot.tv/ch/8131.png" ,Game Toon HD
 http://s.only4.tv/8131/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="Z_Fun" tvg-logo="http://1lot.tv/ch/8256.png" ,Z! Fun HD
-http://s.only4.tv/8256/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/8742.png" ,VB Назад в СССР
-http://s.only4.tv/8742/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/9039.png" ,PlayBoyz TV HD
 http://s.only4.tv/9039/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="TVPlaySketchShow.tv" tvg-logo="http://1lot.tv/ch/9229.png" ,TVPlay Скетч-Шоу
@@ -558,8 +562,9 @@ http://s.only4.tv/9229/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/11179/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="kbc-100500" tvg-logo="http://1lot.tv/ch/9513.png" ,KBC+100500 (18+)
 http://s.only4.tv/9513/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="kongresstv" tvg-logo="http://1lot.tv/ch/9668.png" ,Конгресс ТВ HD
-http://s.only4.tv/9668/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="curiosity-stream" tvg-logo="http://1lot.tv/ch/9670.png" ,Curiosity Stream HD
 http://s.only4.tv/9670/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Разное БезГраниц" tvg-id="extrasens" tvg-logo="http://1lot.tv/ch/9980.png" , KLI Битва Экстрасенсов
@@ -704,8 +709,9 @@ http://s.only4.tv/6304/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/6546/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="detsky" tvg-logo="http://1lot.tv/ch/1112.png" ,Уникум
 http://s.only4.tv/1112/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="nicktoons" tvg-logo="http://1lot.tv/ch/1327.png" ,NickToons
-http://s.only4.tv/1327/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="malysh" tvg-logo="http://1lot.tv/ch/122.png" ,СуперГерои
 http://s.only4.tv/122/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="cartoons-big" tvg-logo="http://1lot.tv/ch/6836.png" ,Cartoons Big
@@ -726,8 +732,9 @@ http://s.only4.tv/8757/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/7192/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="cineman-simps" tvg-logo="http://1lot.tv/ch/7228.png" ,CineMan Симпсоны
 http://s.only4.tv/7228/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="Z_Smile" tvg-logo="http://1lot.tv/ch/7589.png" ,Z! Smile HD
-http://s.only4.tv/7589/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="c-cartoon" tvg-logo="http://1lot.tv/ch/7638.png" ,C-Cartoon HD
 http://s.only4.tv/7638/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="bcu-kids" tvg-logo="http://1lot.tv/ch/6291.png" ,BCU Kids HD
@@ -822,8 +829,9 @@ http://s.only4.tv/10697/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/10881/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="kidstv" tvg-logo="http://1lot.tv/ch/10882.png" ,Kids TV HD
 http://s.only4.tv/10882/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="mult_epoha_uhd" tvg-logo="http://1lot.tv/ch/11316.png" ,Чебур ТВ - МультЭпоха СССР
-http://s.only4.tv/11316/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Детские БезГраниц" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/11391.png" ,CHD-TV СоюзМультфильм
 http://s.only4.tv/11391/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="h2" tvg-logo="http://1lot.tv/ch/0205.png" ,History 2 HD
@@ -938,8 +946,9 @@ http://s.only4.tv/5562/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/8010/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="ntv-style" tvg-logo="http://1lot.tv/ch/9830.png" ,HTB Стиль HD
 http://s.only4.tv/9830/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="big-planet" tvg-logo="http://1lot.tv/ch/9671.png" ,Big Planet HD
-http://s.only4.tv/9671/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="teleputeshestvia" tvg-logo="http://1lot.tv/ch/8796.png" ,Телепутешествия
 http://s.only4.tv/8796/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="kriminalnoe-hd" tvg-logo="http://1lot.tv/ch/8841.png" ,Криминальное HD
@@ -956,8 +965,9 @@ http://s.only4.tv/9261/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/9685/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="the-explorers" tvg-logo="http://1lot.tv/ch/9673.png" ,The Explorers HD
 http://s.only4.tv/9673/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="neizvestnaya-rosia" tvg-logo="http://1lot.tv/ch/9674.png" ,Неизвестная Россия HD
-http://s.only4.tv/9674/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="TVPlaySledstvieVeli.tv" tvg-logo="http://1lot.tv/ch/9810.png" ,TVPlay Следствие Вели
 http://s.only4.tv/9810/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Познавательные БезГраниц" tvg-id="raz1" tvg-logo="http://1lot.tv/ch/9831.png" ,RAZ 1 HD
@@ -1018,8 +1028,9 @@ http://s.only4.tv/6881/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/6869/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="yosso-musichits" tvg-logo="http://1lot.tv/ch/7193.png" ,YOSSO TV Music Hits
 http://s.only4.tv/7193/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/7591.png" ,Z! Rock HD
-http://s.only4.tv/7591/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="inrating" tvg-logo="http://1lot.tv/ch/7649.png" ,InRating TV
 http://s.only4.tv/7649/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="onemuz" tvg-logo="http://1lot.tv/ch/7651.png" ,Первый Музыкальный HD
@@ -1038,12 +1049,13 @@ http://s.only4.tv/7130/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/8139/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="trace-urban" tvg-logo="http://1lot.tv/ch/8178.png" ,Trace Urban HD
 http://s.only4.tv/8178/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="Russkaja_Popsa" tvg-logo="http://1lot.tv/ch/8272.png" ,VB Русская Попса 80х-90х
-http://s.only4.tv/8272/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="Russian_Dance_Hits_of_90s" tvg-logo="http://1lot.tv/ch/8273.png" ,VB Russian Dance Hits of 90s
-http://s.only4.tv/8273/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="Dance_hits_of_90s" tvg-logo="http://1lot.tv/ch/8274.png" ,VB Dance Hits of 90s
-http://s.only4.tv/8274/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8868.png" ,V2 Beat TV
 http://s.only4.tv/8868/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="now70s" tvg-logo="http://1lot.tv/ch/8872.png" ,NOW 70s
@@ -1060,12 +1072,14 @@ http://s.only4.tv/8880/index.m3u8?token=F3t5Vg64pr
 http://s.only4.tv/8890/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8928.png" ,Muzzik TV
 http://s.only4.tv/8928/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8930.png" ,Muzzik FlashBack 
-http://s.only4.tv/8930/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8933.png" ,Muzzik Mix
 http://s.only4.tv/8933/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="no_epg_music" tvg-logo="http://1lot.tv/ch/8936.png" ,Muzzik TikTak
-http://s.only4.tv/8936/index.m3u8?token=F3t5Vg64pr
+
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="box-metall" tvg-logo="http://1lot.tv/ch/8947.png" ,BOX Metall HD
 http://s.only4.tv/8947/index.m3u8?token=F3t5Vg64pr
 #EXTINF:-1 group-title="Музыка БезГраниц" tvg-id="TVPlayVysotskiy.tv" tvg-logo="http://1lot.tv/ch/9219.png" ,TVPlay Высоцкий HD
@@ -1156,7 +1170,7 @@ https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000003604/tve/index.m3u8
 
 #EXTINF:-1 group-title="Казахстанские БезГраниц" ,Aкшам
-http://m3efzmyt.megatv.fun/iptv/9W24NNYEATZMWGT37TKB7VAD/14223/index.m3u8
+
 
 #EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-logo="http://1lot.tv/ch/9123.png" ,Ertis
 https://ucdn.beetv.kz/bpk-tv/000003248/tve/index.m3u8
@@ -1188,21 +1202,3 @@ https://ucdn.beetv.kz/bpk-tv/000001572/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
 #EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-logo="http://1lot.tv/ch/9136.png" ,Туркестан
 https://ucdn.beetv.kz/bpk-tv/000007248/tve/index.m3u8
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="ulytau-kz" tvg-logo="http://1lot.tv/ch/9125.png" ,Ulytau HD
-http://s.only4.tv/9125/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="setanta1-kz" tvg-logo="http://1lot.tv/ch/9126.png" ,Setanta Sports 1 HD
-http://s.only4.tv/9126/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="setanta2-kz" tvg-logo="http://1lot.tv/ch/9127.png" ,Setanta Sports 2 HD
-http://s.only4.tv/9127/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="setanta-kz" tvg-logo="http://1lot.tv/ch/9128.png" ,Setanta Sports KZ HD
-http://s.only4.tv/9128/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="setanta-plus-kz" tvg-logo="http://1lot.tv/ch/10798.png" ,Setanta Sports KZ+ HD
-http://s.only4.tv/10798/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="q-kino-hit" tvg-logo="http://1lot.tv/ch/9130.png" ,Кино Драма HD
-http://s.only4.tv/9130/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="q-kino-alem" tvg-logo="http://1lot.tv/ch/9131.png" ,Кино Сериал HD
-http://s.only4.tv/9131/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="tnt-kz" tvg-logo="http://1lot.tv/ch/9137.png" ,ТНТ International HD
-http://s.only4.tv/9137/index.m3u8?token=zoCHqBtVEo
-#EXTINF:-1 group-title="Казахстанские БезГраниц" tvg-id="nick-jr" tvg-logo="http://1lot.tv/ch/9144.png" ,Nick Jr.
-http://s.only4.tv/9144/index.m3u8?token=zoCHqBtVEo
