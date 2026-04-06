@@ -1,188 +1,174 @@
-#EXTM3U url-tvg="http://1lot.tv/epg/epg.xml"
-#EXTINF:-1 group-title="Инфоканал" , Инфоканал 1 RB Play
-https://www.dropbox.com/scl/fi/5bw4ta1nbf2im0pus9j0n/4.mp4?rlkey=5sy76rbbs8u17jqwlxiy9nt4p&st=6r3yq8cc&dl=1
-#EXTINF:-1 group-title="Общие БезГраниц"tvg-logo="http://1lot.tv/ch/1101.png" ,Первый канал
-https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1101.png" ,Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1801.png" ,Первый канал (+2)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R03_OTT_1TV_EKT/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/0356.png" ,Первый канал (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц"tvg-logo="http://1lot.tv/ch/5520.png" ,Первый канал (+6)
-https://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_1TV/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/20105.png" ,Первый канал HD
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общие",Первый канал HD
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6517.png" ,РТР-Планета
+#EXTINF:-1 group-title="Общие",Первый канал Int
+https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",РТР-Планета Int
 https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1001.png" ,Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1116.png" ,Россия 1 (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/0355.png" ,Россия 1 (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7550.png" ,Россия 1 (+8)
-https://s20441.cdn.ngenix.net/hls/CH_R49_OTT_DV_MGDN_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/20106.png" ,Россия 1 HD
+#EXTINF:-1 group-title="Общие",Россия 1 HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1005.png" ,Россия К
+#EXTINF:-1 group-title="Общие",Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+1)
+https://livetv.mylifeisgood.net.ru/channels/russia1-1.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+2)
+https://livetv.mylifeisgood.net.ru/channels/russia1-2.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+3)
+https://livetv.mylifeisgood.net.ru/channels/russia1-3.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+4)
+https://livetv.mylifeisgood.net.ru/channels/russia1-4.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+5)
+https://livetv.mylifeisgood.net.ru/channels/russia1-5.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+6)
+https://livetv.mylifeisgood.net.ru/channels/russia1-6.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+7)
+https://livetv.mylifeisgood.net.ru/channels/russia1-7.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+8)
+https://livetv.mylifeisgood.net.ru/channels/russia1-8.m3u8
+#EXTINF:-1 group-title="Общие",Россия 1 (+9)
+https://livetv.mylifeisgood.net.ru/channels/russia1-9.m3u8
+#EXTINF:-1 group-title="Общие",Россия Культура HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Общие",Россия К Int
 https://ucdn.beetv.kz/bpk-tv/000000066/tve/index.m3u8
-#EXTINF:-1 group-title="Новости БезГраниц" tvg-logo="http://1lot.tv/ch/0302.png" ,Россия 24
+#EXTINF:-1 group-title="Новости",Россия 24 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 group-title="Новости",Россия 24 Int
 https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/10645.png" ,НТВ МИР
-https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1315.png" ,НТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1802.png" ,НТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/0358.png" ,НТВ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/5522.png" ,НТВ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/2201.png" ,НТВ HD
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/9830.png" ,НТВ Стиль
-https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/408.png" ,НТВ Сериал
-https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/406.png" ,НТВ Право
-https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1003.png" ,Пятый канал
-https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1003.png" ,Пятый канал
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/413.png" ,Пятый канал (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7554.png" ,Пятый канал (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7555.png" ,Пятый канал (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1311.png" ,Звезда
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/410.png" ,Звезда (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7558.png" ,Звезда (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7559.png" ,Звезда (+6)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6763.png" ,Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6561.png" ,Звезда Плюс
-http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1004.png" ,Рен ТВ
-https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1004.png" ,РЕН ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/402.png" ,РЕН ТВ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/0357.png" ,Рен ТВ +4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7556.png" ,Рен ТВ +7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1319.png" ,ТНТ
-https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1319.png" ,ТНТ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1804.png" ,ТНТ (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/5574.png" ,ТНТ (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/5523.png" ,ТНТ (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/2207.png" ,ТНТ HD
-https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1820.png" ,ТНТ4
-https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1820.png" ,ТНТ4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1820.png" ,ТНТ4 (+2)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1820.png" ,ТНТ4 (+4)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_4/variant.m3u8	
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1820.png" ,ТНТ4 (+7)
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6465.png" ,ТНТ4 HD
-https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
-#EXTINF:-1 group-title="Новости БезГраниц" tvg-logo="http://1lot.tv/ch/705.png" ,Известия HD
+#EXTINF:-1 group-title="Новости",Соловьев Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новости",Известия HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц",Центральное Телевидение
-https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/10646.png" ,ТВЦ
-https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/10646.png" ,ТВ Центр
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1803.png" ,ТВ Центр (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7560.png" ,ТВЦ +4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7561.png" ,ТВЦ +7
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1008.png" ,ТВ 3 International
-https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1008.png" ,ТВ3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1008.png" ,ТВ3 (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1008.png" ,ТВ3 (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1008.png" ,ТВ3 (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6466.png" ,ТВ3 HD
+#EXTINF:-1 group-title="Общие",Пятый канал Int
+https://ucdn.beetv.kz/bpk-tv/000003718/tve/index.m3u8
+#EXTINF:-1 group-title="Общие" ,Пятый канал (+4)
+http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
+#EXTINF:-1 group-title="Общие",НТВ HD
+https://livetv-app.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 group-title="Общие",НТВ МИР Int
+https://ucdn.beetv.kz/bpk-tv/000000079/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ-Беларусь
+http://46.53.208.4:80/live/6-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1 group-title="Общие",НТВ HD
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" ,НТВ +1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +2.png" group-title="Общие",НТВ +2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.ntv.ru/ntv2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/НТВ +4.png" group-title="Общие",НТВ +4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://cdn.ntv.ru/ntv4/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ +7
+http://cdn2.ntv.ru/ntv7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Сериал HD
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит HD
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Общие",НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Общие",НТВ Стиль
+http://cdn2.ntv.ru/th_style/playlist.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Сериал Int
+https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Стиль Int
+https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",НТВ Право Int
+https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg" group-title="Кино",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg" group-title="Кино",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg" group-title="Кино",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg" group-title="Кино",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg" group-title="Кино",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg" group-title="Кино",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg" group-title="Кино",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="Развлечение" ,Неизвестная Россия
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
+https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Общие",ТВ3 HD
 https://livetv-app.mylifeisgood.net.ru/channels/tv3hd.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1102.png" ,Домашний International
-https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/domashny-int.png" group-title="Общие БезГраниц",Домашний
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6296.png" ,Домашний +2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6297.png" ,Домашний +4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1102.png" ,Домашний +7
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1009.png" ,Пятница International
-https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1009.png" ,Пятница
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7564.png" ,Пятница! (+2)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7565.png" ,Пятница! (+4)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7566.png" ,Пятница! (+7)
-https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7837.png" ,СТС International
-https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1105.png" ,СТС
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/0224.png" ,СТС (+2)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/0354.png" ,СТС (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_4/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/7557.png" ,СТС (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/5580.png" ,СТС HD
-http://95.66.188.74/CTC_HD/mono.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1106.png" ,СТС Love
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1010.png" ,МИР
-https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6532.png" ,Мир HD
+#EXTINF:-1 group-title="Общие",ТВ 3 Int
+https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1823.png" ,МИР 24
+#EXTINF:-1 group-title="Общие",МИР Int
+https://ucdn.beetv.kz/bpk-tv/000002555/tve/index.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +2.png" group-title="Общие",Мир +2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_2.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +4.png" group-title="Общие",Мир +4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_4.m3u8
+#EXTINF:-1 tvg-logo="http://rafail1982.uz/logo/Мир +7.png" group-title="Общие",Мир +7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://dmitry-tv.ddns.net/hls/T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="Общие",Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Общие",МИР 24 Int
 https://ucdn.beetv.kz/bpk-tv/000002557/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6533.png" ,МИР24 HD
+#EXTINF:-1 group-title="Общие",МИР24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/6919.png" ,Перец
+#EXTINF:-1 group-title="Общие",ТВЦ Int
+https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТВЦ
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие" ,ТВЦ (+4)
+http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
+#EXTINF:-1 group-title="Общие",Рен ТВ Int
+https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие",Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Общие",Домашний Int
+https://ucdn.beetv.kz/bpk-tv/000002348/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",СТС Int
+https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
+#EXTINF:-1 group-title="Общие" ,СТС
+http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
+#EXTINF:-1 group-title="Общие",СТС love
+http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
+#EXTINF:-1 group-title="Большое ТВ (VPN)",СТС Love
+http://95.181.17.14/dvr02/mobile2/sts_love/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9NC80LzIwMjYgNjo1MTo0NCBBTSZoYXNoX3ZhbHVlPWtsOS9hbXRNNmRySzQ4Ymx2L2d2RXc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Общие",Пятница Int
+https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",Перец Int
 https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
-#EXTINF:-1 group-title="Общие БезГраниц" tvg-logo="http://1lot.tv/ch/1109.png" ,Че! (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
-
-#EXTINF:-1 group-title="Общие БезГраниц",ОТР
-https://livetv-app.mylifeisgood.net.ru/channels/otr24.m3u8
-
-#EXTINF:-1 group-title="Общие БезГраниц"tvg-logo="http://1lot.tv/ch/1320.png" ,Ю (+4)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие БезГраниц",Ю (+7)
-http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Общие",Че!
+http://195.26.83.96:7009/play/89/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ Int
+https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 HD
+https://livetv-app.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 group-title="Общие",ТНТ4 Int
+https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю (Рутюб)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=jVQFbhS5-99IUd2CMC2fTw&e=2075026756&scheme=https
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/yu.png" group-title="Общие",Ю
+https://livetv-app.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1 group-title="Общие" ,Ю (+4)
+http://api.peers.tv/timeshift/utv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NzUzNzE5MDMsImlhdCI6MTc3NTI4NTUwMywiY2lkIjo2LCJ1aWQiOjEwMjg0OTQ4MDMsInJlZyI6ZmFsc2UsImlwIjoyNDQ5MDQ0NDUxLCJhZHVsdCI6ZmFsc2V9.QThRAxIKgfhFfKt7JBe5cAwXK3YKv7aLyBE5zY7HukA&offset=10
+#EXTINF:-1 group-title="Общие",Центральное Телевидение
+https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
+#EXTINF:-1 group-title="Музыка",Муз ТВ HD
+https://livetv-app.mylifeisgood.net.ru/channels/muztvhd.m3u8
 
 
 
